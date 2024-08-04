@@ -1,0 +1,21 @@
+/* Overall Application Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #c0c0cec5;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  text-align: center;
+}
+
+/* General Form Styles */
+form {
+  padding: 1rem;
+  border-radius: 4px;
+  box-shadow: 0 0 100px rgb(0, 0, 0);
+}
+
